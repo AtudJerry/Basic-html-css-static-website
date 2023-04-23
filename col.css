@@ -7,8 +7,9 @@ h3{
      
 }
 ul {
-     justify-content: space-between;
-     display: flex;
+     justify-content: space-around;
+     display:flex ;
+     flex-direction: row;
      background-color: transparent;
      padding: 10px;
      margin-left: 500px;
@@ -27,4 +28,14 @@ a:hover{
 img{
      height: 50px;
      width: 70px;
+}
+@media (max-width : 1000px){
+.links {
+
+          margin-left: -400px;
+     
+     }
+     a{
+          font-size: 300%;
+     }
 }
