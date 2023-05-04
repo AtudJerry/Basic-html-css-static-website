@@ -1,7 +1,7 @@
 const button = document.getElementById("but")
-const lis = document.querySelector(".dropdown-list")
+const dropdownList = document.querySelector(".dropdown-list")
 
-button.addEventListener("click", function (){
-    lis.classList.toggle("close");
+button.addEventListener("click", () => {
+    dropdownList.classList.toggle("close");
 
 })
