@@ -29,13 +29,14 @@ img{
      height: 50px;
      width: 70px;
 }
-.dropdown-list{
+.close.dropdown-list{
      display: flex;
      flex-direction: column;
      justify-content: space-around;
      height: 500px;
      width: 250px;
      background-color: rgb(71, 111, 111);
+     visibility: visible;
      
 }
 .close{
