@@ -43,8 +43,15 @@ img{
      visibility: hidden;
 
 }
-button{
-     background-color: aqua;
+.fa{
+     color: aqua;
+     height: 50px;
+     width: 90px;
+     
+}
+.fa-times{
+     color: aqua;
+
      height: 50px;
      width: 90px;
 }

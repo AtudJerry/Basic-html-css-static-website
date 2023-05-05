@@ -1,7 +1,17 @@
-const button = document.getElementById("but")
+
+
+const button = document.querySelector('.fa')
+const closebutton = document.querySelector('.fa-times')
 const close = document.querySelector(".close")
 
 button.addEventListener("click", () => {
-    close.classList.toggle("dropdown-list");
+    
+ close.classList.toggle("dropdown-list");
 
 })
+closebutton.addEventListener("click", () => {
+    
+    close.classList.toggle("dropdown-list");
+   
+   })
+
