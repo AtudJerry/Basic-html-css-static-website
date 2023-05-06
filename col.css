@@ -39,26 +39,16 @@ img{
      visibility: visible;
      
 }
-i{
-     height: 300px;
-     width:300px ;
-}
+
 .close{
      visibility: hidden;
 
 }
 .fa{
      color: aqua;
-     height: 300px;
-     width:300px ;
-     
+  
 }
-.fa-bars{
-     color: aqua;
-     height: 140px;
-     width: 140px;
-     
-}
+
 .fa-times{
      color: aqua;
      margin-top: 3%;
