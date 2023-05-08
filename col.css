@@ -36,6 +36,8 @@ img{
      height: 600px;
      width: 900px;
      background-color: rgb(71, 111, 111);
+     transform: translateY(-20px);
+     transition: var(--speed) ease;
      visibility: visible;
      
 }
