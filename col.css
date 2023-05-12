@@ -16,6 +16,10 @@ h3{
      margin-right: 90px;
   
 }
+ul{
+     margin-left: 40%;
+    
+}
 a{
      text-decoration: none;
      color: rgb(223, 215, 222);
@@ -39,6 +43,7 @@ img{
      transform: translateY(-20px);
      transition: var(--speed) ease;
      visibility: visible;
+     margin-left: 50px;
      
 }
 
