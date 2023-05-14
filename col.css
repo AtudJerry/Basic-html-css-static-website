@@ -6,6 +6,9 @@ h3{
      color: aqua;
      
 }
+.colo{
+     color: red;
+}
 .links {
      justify-content: space-between;
      display:flex ;
